@@ -1,4 +1,4 @@
-const apiKey = 'da639369bfde76f18d818f006382df4d'
+// const apiKey = 'Enter your API Key here'
 
 // FOR API KEY
 // Go to the link-  https://home.openweathermap.org/api_keys
